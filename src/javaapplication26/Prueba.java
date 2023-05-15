@@ -9,13 +9,13 @@ package javaapplication26;
  *
  * @author Usuario
  */
-public class JavaApplication26 {
+public class Prueba {
 
   /**
    * @param args the command line arguments
    */
   public static void main(String[] args) {
-    System.out.println("Hola");
+    // TODO code application logic here
   }
   
 }
