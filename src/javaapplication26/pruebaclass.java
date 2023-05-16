@@ -9,14 +9,7 @@ package javaapplication26;
  *
  * @author Usuario
  */
-public class Prueba {
-
-  /**
-   * @param args the command line arguments
-   */
-  public static void main(String[] args) {
-    System.out.println("taro");
-    System.out.println("qeq");
-  }
+public class pruebaclass {
   
+  private int atributo;
 }
